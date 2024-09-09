@@ -1,0 +1,20 @@
+{
+  "FolderOrderSettings":[
+    {"name":"Objects","order":9,"path":"folders/Objects.yy",},
+    {"name":"Rooms","order":10,"path":"folders/Rooms.yy",},
+    {"name":"Sprites","order":1,"path":"folders/Sprites.yy",},
+  ],
+  "ResourceOrderSettings":[
+    {"name":"oCamera","order":7,"path":"objects/oCamera/oCamera.yy",},
+    {"name":"oEnemy","order":4,"path":"objects/oEnemy/oEnemy.yy",},
+    {"name":"oHex","order":5,"path":"objects/oHex/oHex.yy",},
+    {"name":"oSaw","order":3,"path":"objects/oSaw/oSaw.yy",},
+    {"name":"oSoul","order":1,"path":"objects/oSoul/oSoul.yy",},
+    {"name":"oSpawner","order":6,"path":"objects/oSpawner/oSpawner.yy",},
+    {"name":"oTrail","order":2,"path":"objects/oTrail/oTrail.yy",},
+    {"name":"sEnemy","order":2,"path":"sprites/sEnemy/sEnemy.yy",},
+    {"name":"sHex","order":3,"path":"sprites/sHex/sHex.yy",},
+    {"name":"sSaw","order":4,"path":"sprites/sSaw/sSaw.yy",},
+    {"name":"sSoul","order":1,"path":"sprites/sSoul/sSoul.yy",},
+  ],
+}
